@@ -1,0 +1,1150 @@
+{
+    "diseases": [
+        {
+        "name": "Peach leaf",
+        "cause": [
+            "Bacterial leaf spot caused by Xanthomonas arboricola",
+            "Fungal leaf spot caused by Phyllosticta persicae",
+            "Pests like aphids, whiteflies, and spider mites"
+        ],
+        "prevention": [
+            "Use resistant varieties",
+            "Remove weeds and debris",
+            "Water plants carefully to avoid splashing water on leaves",
+            "Monitor for pests and diseases regularly",
+            "Use physical barriers like fine-mesh screens to prevent whiteflies and aphids",
+            "Avoid over-fertilizing",
+            "Prune trees to improve air circulation",
+            "Use copper-based fungicides",
+            "Apply insecticidal soap or neem oil to control pests"
+        ],
+        "cure": [
+            "Remove infected leaves or branches",
+            "Apply copper-based fungicides",
+            "Use bactericides like copper or streptomycin",
+            "Apply insecticidal soap or neem oil to control pests",
+            "Use systemic fungicides like azoxystrobin or chlorothalonil",
+            "Apply a bactericide like kasugamycin",
+            "Use a fungicide like pyraclostrobin or boscalid",
+            "Apply a neem oil-based pesticide",
+            "Use a copper-based fungicide like copper oxychloride",
+            "Monitor for pests and diseases regularly"
+        ],
+        "pesticide": [
+            "Copper oxychloride",
+            "Azoxystrobin",
+            "Chlorothalonil",
+            "Kasugamycin",
+            "Pyraclostrobin",
+            "Boscalid",
+            "Neem oil",
+            "Insecticidal soap",
+            "Streptomycin",
+            "Copper-based fungicides"
+        ]
+        },
+        {
+        "name": "Potato leaf early blight",
+        "cause": [
+            "Fungal disease caused by Alternaria solani",
+            "Bacterial disease caused by Pseudomonas syringae",
+            "Pests like aphids, whiteflies, and spider mites"
+        ],
+        "prevention": [
+            "Use resistant varieties",
+            "Remove weeds and debris",
+            "Water plants carefully to avoid splashing water on leaves",
+            "Monitor for pests and diseases regularly",
+            "Use physical barriers like fine-mesh screens to prevent whiteflies and aphids",
+            "Avoid over-fertilizing",
+            "Prune plants to improve air circulation",
+            "Use copper-based fungicides",
+            "Apply insecticidal soap or neem oil to control pests"
+        ],
+        "cure": [
+            "Remove infected leaves or branches",
+            "Apply copper-based fungicides",
+            "Use bactericides like copper or streptomycin",
+            "Apply insecticidal soap or neem oil to control pests",
+            "Use systemic fungicides like azoxystrobin or chlorothalonil",
+            "Apply a bactericide like kasugamycin",
+            "Use a fungicide like pyraclostrobin or boscalid",
+            "Apply a neem oil-based pesticide",
+            "Use a copper-based fungicide like copper oxychloride",
+            "Monitor for pests and diseases regularly"
+        ],
+        "pesticide": [
+            "Copper oxychloride",
+            "Azoxystrobin",
+            "Chlorothalonil",
+            "Kasugamycin",
+            "Pyraclostrobin",
+            "Boscalid",
+            "Neem oil",
+            "Insecticidal soap",
+            "Streptomycin",
+            "Copper-based fungicides"
+        ]
+        },
+        {
+        "name": "Potato leaf late blight",
+        "cause": [
+            "Fungal disease caused by Phytophthora infestans",
+            "Bacterial disease caused by Pseudomonas syringae",
+            "Pests like aphids, whiteflies, and spider mites"
+        ],
+        "prevention": [
+            "Use resistant varieties",
+            "Remove weeds and debris",
+            "Water plants carefully to avoid splashing water on leaves",
+            "Monitor for pests and diseases regularly",
+            "Use physical barriers like fine-mesh screens to prevent whiteflies and aphids",
+            "Avoid over-fertilizing",
+            "Prune plants to improve air circulation",
+            "Use copper-based fungicides",
+            "Apply insecticidal soap or neem oil to control pests"
+        ],
+        "cure": [
+            "Remove infected leaves or branches",
+            "Apply copper-based fungicides",
+            "Use bactericides like copper or streptomycin",
+            "Apply insecticidal soap or neem oil to control pests",
+            "Use systemic fungicides like azoxystrobin or chlorothalonil",
+            "Apply a bactericide like kasugamycin",
+            "Use a fungicide like pyraclostrobin or boscalid",
+            "Apply a neem oil-based pesticide",
+            "Use a copper-based fungicide like copper oxychloride",
+            "Monitor for pests and diseases regularly"
+        ],
+        "pesticide": [
+            "Copper oxychloride",
+            "Azoxystrobin",
+            "Chlorothalonil",
+            "Kasugamycin",
+            "Pyraclostrobin",
+            "Boscalid",
+            "Neem oil",
+            "Insecticidal soap",
+            "Streptomycin",
+            "Copper-based fungicides"
+        ]
+        },
+        {
+        "name": "Potato leaf",
+        "cause": [
+            "Bacterial leaf spot caused by Xanthomonas campestris",
+            "Fungal leaf spot caused by Phyllosticta solani",
+            "Pests like aphids, whiteflies, and spider mites"
+        ],
+        "prevention": [
+            "Use resistant varieties",
+            "Remove weeds and debris",
+            "Water plants carefully to avoid splashing water on leaves",
+            "Monitor for pests and diseases regularly",
+            "Use physical barriers like fine-mesh screens to prevent whiteflies and aphids",
+            "Avoid over-fertilizing",
+            "Prune plants to improve air circulation",
+            "Use copper-based fungicides",
+            "Apply insecticidal soap or neem oil to control pests"
+        ],
+        "cure": [
+            "Remove infected leaves or branches",
+            "Apply copper-based fungicides",
+            "Use bactericides like copper or streptomycin",
+            "Apply insecticidal soap or neem oil to control pests",
+            "Use systemic fungicides like azoxystrobin or chlorothalonil",
+            "Apply a bactericide like kasugamycin",
+            "Use a fungicide like pyraclostrobin or boscalid",
+            "Apply a neem oil-based pesticide",
+            "Use a copper-based fungicide like copper oxychloride",
+            "Monitor for pests and diseases regularly"
+        ],
+        "pesticide": [
+            "Copper oxychloride",
+            "Azoxystrobin",
+            "Chlorothalonil",
+            "Kasugamycin",
+            "Pyraclostrobin",
+            "Boscalid",
+            "Neem oil",
+            "Insecticidal soap",
+            "Streptomycin",
+            "Copper-based fungicides"
+        ]
+        },
+        {
+        "name": "Raspberry leaf",
+        "cause": [
+            "Fungal disease caused by Phyllosticta rubi",
+            "Bacterial disease caused by Pseudomonas syringae",
+            "Pests like aphids, whiteflies, and spider mites"
+        ],
+        "prevention": [
+            "Use resistant varieties",
+            "Remove weeds and debris",
+            "Water plants carefully to avoid splashing water on leaves",
+            "Monitor for pests and diseases regularly",
+            "Use physical barriers like fine-mesh screens to prevent whiteflies and aphids",
+            "Avoid over-fertilizing",
+            "Prune plants to improve air circulation",
+            "Use copper-based fungicides",
+            "Apply insecticidal soap or neem oil to control pests"
+        ],
+        "cure": [
+            "Remove infected leaves or branches",
+            "Apply copper-based fungicides",
+            "Use bactericides like copper or streptomycin",
+            "Apply insecticidal soap or neem oil to control pests",
+            "Use systemic fungicides like azoxystrobin or chlorothalonil",
+            "Apply a bactericide like kasugamycin",
+            "Use a fungicide like pyraclostrobin or boscalid",
+            "Apply a neem oil-based pesticide",
+            "Use a copper-based fungicide like copper oxychloride",
+            "Monitor for pests and diseases regularly"
+        ],
+        "pesticide": [
+            "Copper oxychloride",
+            "Azoxystrobin",
+            "Chlorothalonil",
+            "Kasugamycin",
+            "Pyraclostrobin",
+            "Boscalid",
+            "Neem oil",
+            "Insecticidal soap",
+            "Streptomycin",
+            "Copper-based fungicides"
+        ]
+        },
+        {
+        "name": "Soyabean leaf",
+        "cause": [
+            "Fungal disease caused by Cercospora sojina",
+            "Bacterial disease caused by Pseudomonas syringae",
+            "Pests like aphids, whiteflies, and spider mites"
+        ],
+        "prevention": [
+            "Use resistant varieties",
+            "Remove weeds and debris",
+            "Water plants carefully to avoid splashing water on leaves",
+            "Monitor for pests and diseases regularly",
+            "Use physical barriers like fine-mesh screens to prevent whiteflies and aphids",
+            "Avoid over-fertilizing",
+            "Prune plants to improve air circulation",
+            "Use copper-based fungicides",
+            "Apply insecticidal soap or neem oil to control pests"
+        ],
+        "cure": [
+            "Remove infected leaves or branches",
+            "Apply copper-based fungicides",
+            "Use bactericides like copper or streptomycin",
+            "Apply insecticidal soap or neem oil to control pests",
+            "Use systemic fungicides like azoxystrobin or chlorothalonil",
+            "Apply a bactericide like kasugamycin",
+            "Use a fungicide like pyraclostrobin or boscalid",
+            "Apply a neem oil-based pesticide",
+            "Use a copper-based fungicide like copper oxychloride",
+            "Monitor for pests and diseases regularly"
+        ],
+        "pesticide": [
+            "Copper oxychloride",
+            "Azoxystrobin",
+            "Chlorothalonil",
+            "Kasugamycin",
+            "Pyraclostrobin",
+            "Boscalid",
+            "Neem oil",
+            "Insecticidal soap",
+            "Streptomycin",
+            "Copper-based fungicides"
+        ]
+        },
+        {
+        "name": "Soybean leaf",
+        "cause": [
+            "Fungal disease caused by Phyllosticta sojina",
+            "Bacterial disease caused by Pseudomonas syringae",
+            "Pests like aphids, whiteflies, and spider mites"
+        ],
+        "prevention": [
+            "Use resistant varieties",
+            "Remove weeds and debris",
+            "Water plants carefully to avoid splashing water on leaves",
+            "Monitor for pests and diseases regularly",
+            "Use physical barriers like fine-mesh screens to prevent whiteflies and aphids",
+            "Avoid over-fertilizing",
+            "Prune plants to improve air circulation",
+            "Use copper-based fungicides",
+            "Apply insecticidal soap or neem oil to control pests"
+        ],
+        "cure": [
+            "Remove infected leaves or branches",
+            "Apply copper-based fungicides",
+            "Use bactericides like copper or streptomycin",
+            "Apply insecticidal soap or neem oil to control pests",
+            "Use systemic fungicides like azoxystrobin or chlorothalonil",
+            "Apply a bactericide like kasugamycin",
+            "Use a fungicide like pyraclostrobin or boscalid",
+            "Apply a neem oil-based pesticide",
+            "Use a copper-based fungicide like copper oxychloride",
+            "Monitor for pests and diseases regularly"
+        ],
+        "pesticide": [
+            "Copper oxychloride",
+            "Azoxystrobin",
+            "Chlorothalonil",
+            "Kasugamycin",
+            "Pyraclostrobin",
+            "Boscalid",
+            "Neem oil",
+            "Insecticidal soap",
+            "Streptomycin",
+            "Copper-based fungicides"
+        ]
+        },
+        {
+        "name": "Squash Powdery mildew leaf",
+        "cause": [
+            "Fungal disease caused by Podosphaera xanthii",
+            "Bacterial disease caused by Pseudomonas syringae",
+            "Pests like aphids, whiteflies, and spider mites"
+        ],
+        "prevention": [
+            "Use resistant varieties",
+            "Remove weeds and debris",
+            "Water plants carefully to avoid splashing water on leaves",
+            "Monitor for pests and diseases regularly",
+            "Use physical barriers like fine-mesh screens to prevent whiteflies and aphids",
+            "Avoid over-fertilizing",
+            "Prune plants to improve air circulation",
+            "Use copper-based fungicides",
+            "Apply insecticidal soap or neem oil to control pests"
+        ],
+        "cure": [
+            "Remove infected leaves or branches",
+            "Apply copper-based fungicides",
+            "Use bactericides like copper or streptomycin",
+            "Apply insecticidal soap or neem oil to control pests",
+            "Use systemic fungicides like azoxystrobin or chlorothalonil",
+            "Apply a bactericide like kasugamycin",
+            "Use a fungicide like pyraclostrobin or boscalid",
+            "Apply a neem oil-based pesticide",
+            "Use a copper-based fungicide like copper oxychloride",
+            "Monitor for pests and diseases regularly"
+        ],
+        "pesticide": [
+            "Copper oxychloride",
+            "Azoxystrobin",
+            "Chlorothalonil",
+            "Kasugamycin",
+            "Pyraclostrobin",
+            "Boscalid",
+            "Neem oil",
+            "Insecticidal soap",
+            "Streptomycin",
+            "Copper-based fungicides"
+        ]
+        },
+        {
+        "name": "Strawberry leaf",
+        "cause": [
+            "Fungal disease caused by Phyllosticta fragariae",
+            "Bacterial disease caused by Pseudomonas syringae",
+            "Pests like aphids, whiteflies, and spider mites"
+        ],
+        "prevention": [
+            "Use resistant varieties",
+            "Remove weeds and debris",
+            "Water plants carefully to avoid splashing water on leaves",
+            "Monitor for pests and diseases regularly",
+            "Use physical barriers like fine-mesh screens to prevent whiteflies and aphids",
+            "Avoid over-fertilizing",
+            "Prune plants to improve air circulation",
+            "Use copper-based fungicides",
+            "Apply insecticidal soap or neem oil to control pests"
+        ],
+        "cure": [
+            "Remove infected leaves or branches",
+            "Apply copper-based fungicides",
+            "Use bactericides like copper or streptomycin",
+            "Apply insecticidal soap or neem oil to control pests",
+            "Use systemic fungicides like azoxystrobin or chlorothalonil",
+            "Apply a bactericide like kasugamycin",
+            "Use a fungicide like pyraclostrobin or boscalid",
+            "Apply a neem oil-based pesticide",
+            "Use a copper-based fungicide like copper oxychloride",
+            "Monitor for pests and diseases regularly"
+        ],
+        "pesticide": [
+            "Copper oxychloride",
+            "Azoxystrobin",
+            "Chlorothalonil",
+            "Kasugamycin",
+            "Pyraclostrobin",
+            "Boscalid",
+            "Neem oil",
+            "Insecticidal soap",
+            "Streptomycin",
+            "Copper-based fungicides"
+        ]
+        },
+        {
+        "name": "Tomato Early blight leaf",
+        "cause": [
+            "Fungal disease caused by Alternaria solani",
+            "Bacterial disease caused by Pseudomonas syringae",
+            "Pests like aphids, whiteflies, and spider mites"
+        ],
+        "prevention": [
+            "Use resistant varieties",
+            "Remove weeds and debris",
+            "Water plants carefully to avoid splashing water on leaves",
+            "Monitor for pests and diseases regularly",
+            "Use physical barriers like fine-mesh screens to prevent whiteflies and aphids",
+            "Avoid over-fertilizing",
+            "Prune plants to improve air circulation",
+            "Use copper-based fungicides",
+            "Apply insecticidal soap or neem oil to control pests"
+        ],
+        "cure": [
+            "Remove infected leaves or branches",
+            "Apply copper-based fungicides",
+            "Use bactericides like copper or streptomycin",
+            "Apply insecticidal soap or neem oil to control pests",
+            "Use systemic fungicides like azoxystrobin or chlorothalonil",
+            "Apply a bactericide like kasugamycin",
+            "Use a fungicide like pyraclostrobin or boscalid",
+            "Apply a neem oil-based pesticide",
+            "Use a copper-based fungicide like copper oxychloride",
+            "Monitor for pests and diseases regularly"
+        ],
+        "pesticide": [
+            "Copper oxychloride",
+            "Azoxystrobin",
+            "Chlorothalonil",
+            "Kasugamycin",
+            "Pyraclostrobin",
+            "Boscalid",
+            "Neem oil",
+            "Insecticidal soap",
+            "Streptomycin",
+            "Copper-based fungicides"
+        ]
+        },
+        {
+        "name": "Apple Scab Leaf",
+        "cause": [
+            "Fungal infection caused by Venturia inaequalis",
+            "Moisture on leaves",
+            "Temperature between 50°F and 70°F",
+            "Poor air circulation",
+            "Infected leaves not removed",
+            "Contaminated irrigation water",
+            "Poor soil drainage",
+            "High humidity",
+            "Lack of pruning",
+            "Poor sanitation"
+        ],
+        "prevention": [
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Use fungicides",
+            "Prune trees regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "cure": [
+            "Apply fungicides",
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Prune trees regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "pesticide": "Fungicides such as chlorothalonil, copper, or sulfur"
+        },
+        {
+        "name": "Apple leaf",
+        "cause": [
+            "Bacterial infection caused by Erwinia amylovora",
+            "Insect vectors such as aphids and psyllids",
+            "Moisture on leaves",
+            "Temperature between 50°F and 70°F",
+            "Poor air circulation",
+            "Infected leaves not removed",
+            "Contaminated irrigation water",
+            "Poor soil drainage",
+            "High humidity",
+            "Lack of pruning"
+        ],
+        "prevention": [
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Use bactericides",
+            "Prune trees regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "cure": [
+            "Apply bactericides",
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Prune trees regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "pesticide": "Bactericides such as copper or streptomycin"
+        },
+        {
+        "name": "Apple rust leaf",
+        "cause": [
+            "Fungal infection caused by Gymnosporangium juniperi-virginianae",
+            "Moisture on leaves",
+            "Temperature between 50°F and 70°F",
+            "Poor air circulation",
+            "Infected leaves not removed",
+            "Contaminated irrigation water",
+            "Poor soil drainage",
+            "High humidity",
+            "Lack of pruning",
+            "Presence of juniper trees nearby"
+        ],
+        "prevention": [
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Use fungicides",
+            "Prune trees regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "cure": [
+            "Apply fungicides",
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Prune trees regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "pesticide": "Fungicides such as chlorothalonil, copper, or sulfur"
+        },
+        {
+        "name": "Bell_pepper leaf spot",
+        "cause": [
+            "Bacterial infection caused by Xanthomonas campestris",
+            "Insect vectors such as aphids and whiteflies",
+            "Moisture on leaves",
+            "Temperature between 50°F and 70°F",
+            "Poor air circulation",
+            "Infected leaves not removed",
+            "Contaminated irrigation water",
+            "Poor soil drainage",
+            "High humidity",
+            "Lack of pruning"
+        ],
+        "prevention": [
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Use bactericides",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "cure": [
+            "Apply bactericides",
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "pesticide": "Bactericides such as copper or streptomycin"
+        },
+        {
+        "name": "Bell_pepper leaf",
+        "cause": [
+            "Fungal infection caused by Cercospora capsici",
+            "Moisture on leaves",
+            "Temperature between 50°F and 70°F",
+            "Poor air circulation",
+            "Infected leaves not removed",
+            "Contaminated irrigation water",
+            "Poor soil drainage",
+            "High humidity",
+            "Lack of pruning",
+            "Presence of weeds nearby"
+        ],
+        "prevention": [
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Use fungicides",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "cure": [
+            "Apply fungicides",
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "pesticide": "Fungicides such as chlorothalonil, copper, or sulfur"
+        },
+        {
+        "name": "Blueberry leaf",
+        "cause": [
+            "Fungal infection caused by Septoria albopunctata",
+            "Moisture on leaves",
+            "Temperature between 50°F and 70°F",
+            "Poor air circulation",
+            "Infected leaves not removed",
+            "Contaminated irrigation water",
+            "Poor soil drainage",
+            "High humidity",
+            "Lack of pruning",
+            "Presence of weeds nearby"
+        ],
+        "prevention": [
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Use fungicides",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "cure": [
+            "Apply fungicides",
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "pesticide": "Fungicides such as chlorothalonil, copper, or sulfur"
+        },
+        {
+        "name": "Cherry leaf",
+        "cause": [
+            "Fungal infection caused by Blumeriella jaapii",
+            "Moisture on leaves",
+            "Temperature between 50°F and 70°F",
+            "Poor air circulation",
+            "Infected leaves not removed",
+            "Contaminated irrigation water",
+            "Poor soil drainage",
+            "High humidity",
+            "Lack of pruning",
+            "Presence of weeds nearby"
+        ],
+        "prevention": [
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Use fungicides",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "cure": [
+            "Apply fungicides",
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "pesticide": "Fungicides such as chlorothalonil, copper, or sulfur"
+        },
+        {
+        "name": "Corn Gray leaf spot",
+        "cause": [
+            "Fungal infection caused by Cercospora zeae-maydis",
+            "Moisture on leaves",
+            "Temperature between 50°F and 70°F",
+            "Poor air circulation",
+            "Infected leaves not removed",
+            "Contaminated irrigation water",
+            "Poor soil drainage",
+            "High humidity",
+            "Lack of pruning",
+            "Presence of weeds nearby"
+        ],
+        "prevention": [
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Use fungicides",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "cure": [
+            "Apply fungicides",
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "pesticide": "Fungicides such as chlorothalonil, copper, or sulfur"
+        },
+        {
+        "name": "Corn leaf blight",
+        "cause": [
+            "Fungal infection caused by Cochliobolus heterostrophus",
+            "Moisture on leaves",
+            "Temperature between 50°F and 70°F",
+            "Poor air circulation",
+            "Infected leaves not removed",
+            "Contaminated irrigation water",
+            "Poor soil drainage",
+            "High humidity",
+            "Lack of pruning",
+            "Presence of weeds nearby"
+        ],
+        "prevention": [
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Use fungicides",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "cure": [
+            "Apply fungicides",
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "pesticide": "Fungicides such as chlorothalonil, copper, or sulfur"
+        },
+        {
+        "name": "Corn rust leaf",
+        "cause": [
+            "Fungal infection caused by Puccinia sorghi",
+            "Moisture on leaves",
+            "Temperature between 50°F and 70°F",
+            "Poor air circulation",
+            "Infected leaves not removed",
+            "Contaminated irrigation water",
+            "Poor soil drainage",
+            "High humidity",
+            "Lack of pruning",
+            "Presence of weeds nearby"
+        ],
+        "prevention": [
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Use fungicides",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "cure": [
+            "Apply fungicides",
+            "Remove infected leaves",
+            "Improve air circulation",
+            "Use resistant varieties",
+            "Avoid overhead irrigation",
+            "Prune plants regularly",
+            "Disinfect pruning tools",
+            "Monitor weather conditions",
+            "Use physical barriers",
+            "Maintain good soil health"
+        ],
+        "pesticide": "Fungicides such as chlorothalonil, copper, or sulfur"
+        },
+        {
+        "name": "Tomato Septoria leaf spot",
+        "cause": [
+            "Fungal infection caused by Septoria lycopersici",
+            "High humidity and temperature",
+            "Poor air circulation",
+            "Water splashing on leaves",
+            "Infected seeds or seedlings",
+            "Contaminated soil or equipment",
+            "Weakened plant defense",
+            "Lack of crop rotation",
+            "Poor sanitation",
+            "Inadequate pruning"
+        ],
+        "prevention": [
+            "Use disease-free seeds or seedlings",
+            "Rotate crops to break disease cycle",
+            "Remove infected plants or debris",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Use fungicides as a preventative measure",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools"
+        ],
+        "cure": [
+            "Remove infected leaves or stems",
+            "Apply fungicides to affected areas",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools",
+            "Apply copper-based fungicides",
+            "Use biological control agents"
+        ],
+        "pesticide": "Chlorothalonil, Copper oxychloride, Mancozeb"
+        },
+        {
+        "name": "Tomato leaf bacterial spot",
+        "cause": [
+            "Bacterial infection caused by Xanthomonas campestris",
+            "High humidity and temperature",
+            "Poor air circulation",
+            "Water splashing on leaves",
+            "Infected seeds or seedlings",
+            "Contaminated soil or equipment",
+            "Weakened plant defense",
+            "Lack of crop rotation",
+            "Poor sanitation",
+            "Inadequate pruning"
+        ],
+        "prevention": [
+            "Use disease-free seeds or seedlings",
+            "Rotate crops to break disease cycle",
+            "Remove infected plants or debris",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Use bactericides as a preventative measure",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools"
+        ],
+        "cure": [
+            "Remove infected leaves or stems",
+            "Apply bactericides to affected areas",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools",
+            "Apply copper-based bactericides",
+            "Use biological control agents"
+        ],
+        "pesticide": "Copper oxychloride, Streptomycin, Kasugamycin"
+        },
+        {
+        "name": "Tomato leaf late blight",
+        "cause": [
+            "Fungal infection caused by Phytophthora infestans",
+            "High humidity and temperature",
+            "Poor air circulation",
+            "Water splashing on leaves",
+            "Infected seeds or seedlings",
+            "Contaminated soil or equipment",
+            "Weakened plant defense",
+            "Lack of crop rotation",
+            "Poor sanitation",
+            "Inadequate pruning"
+        ],
+        "prevention": [
+            "Use disease-free seeds or seedlings",
+            "Rotate crops to break disease cycle",
+            "Remove infected plants or debris",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Use fungicides as a preventative measure",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools"
+        ],
+        "cure": [
+            "Remove infected leaves or stems",
+            "Apply fungicides to affected areas",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools",
+            "Apply copper-based fungicides",
+            "Use biological control agents"
+        ],
+        "pesticide": "Chlorothalonil, Copper oxychloride, Mancozeb"
+        },
+        {
+        "name": "Tomato leaf mosaic virus",
+        "cause": [
+            "Viral infection caused by Tomato mosaic virus",
+            "Infected seeds or seedlings",
+            "Contaminated soil or equipment",
+            "Weakened plant defense",
+            "Lack of crop rotation",
+            "Poor sanitation",
+            "Inadequate pruning",
+            "Aphid or whitefly vectors"
+        ],
+        "prevention": [
+            "Use disease-free seeds or seedlings",
+            "Rotate crops to break disease cycle",
+            "Remove infected plants or debris",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Use insecticides to control aphid or whitefly vectors",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools"
+        ],
+        "cure": [
+            "Remove infected leaves or stems",
+            "Apply insecticides to control aphid or whitefly vectors",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools",
+            "Use biological control agents",
+            "Apply antiviral agents"
+        ],
+        "pesticide": "Insecticidal soap, Neem oil, Imidacloprid"
+        },
+        {
+        "name": "Tomato leaf yellow virus",
+        "cause": [
+            "Viral infection caused by Tomato yellow leaf curl virus",
+            "Infected seeds or seedlings",
+            "Contaminated soil or equipment",
+            "Weakened plant defense",
+            "Lack of crop rotation",
+            "Poor sanitation",
+            "Inadequate pruning",
+            "Whitefly vectors"
+        ],
+        "prevention": [
+            "Use disease-free seeds or seedlings",
+            "Rotate crops to break disease cycle",
+            "Remove infected plants or debris",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Use insecticides to control whitefly vectors",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools"
+        ],
+        "cure": [
+            "Remove infected leaves or stems",
+            "Apply insecticides to control whitefly vectors",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools",
+            "Use biological control agents",
+            "Apply antiviral agents"
+        ],
+        "pesticide": "Insecticidal soap, Neem oil, Imidacloprid"
+        },
+        {
+        "name": "Tomato mold leaf",
+        "cause": [
+            "Fungal infection caused by various species",
+            "High humidity and temperature",
+            "Poor air circulation",
+            "Water splashing on leaves",
+            "Infected seeds or seedlings",
+            "Contaminated soil or equipment",
+            "Weakened plant defense",
+            "Lack of crop rotation",
+            "Poor sanitation",
+            "Inadequate pruning"
+        ],
+        "prevention": [
+            "Use disease-free seeds or seedlings",
+            "Rotate crops to break disease cycle",
+            "Remove infected plants or debris",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Use fungicides as a preventative measure",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools"
+        ],
+        "cure": [
+            "Remove infected leaves or stems",
+            "Apply fungicides to affected areas",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools",
+            "Apply copper-based fungicides",
+            "Use biological control agents"
+        ],
+        "pesticide": "Chlorothalonil, Copper oxychloride, Mancozeb"
+        },
+        {
+        "name": "Tomato two spotted spider mites leaf",
+        "cause": [
+            "Mite infestation caused by Tetranychus urticae",
+            "High temperature and humidity",
+            "Poor air circulation",
+            "Water stress",
+            "Infested seeds or seedlings",
+            "Contaminated soil or equipment",
+            "Weakened plant defense",
+            "Lack of crop rotation",
+            "Poor sanitation",
+            "Inadequate pruning"
+        ],
+        "prevention": [
+            "Use pest-free seeds or seedlings",
+            "Rotate crops to break pest cycle",
+            "Remove infested plants or debris",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid stress",
+            "Use miticides as a preventative measure",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools"
+        ],
+        "cure": [
+            "Remove infested leaves or stems",
+            "Apply miticides to affected areas",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid stress",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools",
+            "Apply insecticidal soap",
+            "Use biological control agents"
+        ],
+        "pesticide": "Insecticidal soap, Neem oil, Abamectin"
+        },
+        {
+        "name": "grape leaf black rot",
+        "cause": [
+            "Fungal infection caused by Guignardia bidwellii",
+            "High humidity and temperature",
+            "Poor air circulation",
+            "Water splashing on leaves",
+            "Infected seeds or seedlings",
+            "Contaminated soil or equipment",
+            "Weakened plant defense",
+            "Lack of crop rotation",
+            "Poor sanitation",
+            "Inadequate pruning"
+        ],
+        "prevention": [
+            "Use disease-free seeds or seedlings",
+            "Rotate crops to break disease cycle",
+            "Remove infected plants or debris",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Use fungicides as a preventative measure",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools"
+        ],
+        "cure": [
+            "Remove infected leaves or stems",
+            "Apply fungicides to affected areas",
+            "Improve air circulation and reduce humidity",
+            "Water plants carefully to avoid splashing",
+            "Monitor plants regularly for symptoms",
+            "Maintain good soil health and fertility",
+            "Prune plants to promote healthy growth",
+            "Disinfect equipment and tools",
+            "Apply copper-based fungicides",
+            "Use biological control agents"
+        ],
+        "pesticide": "Chlorothalonil, Copper oxychloride, Mancozeb"
+        }
+    ]
+}
